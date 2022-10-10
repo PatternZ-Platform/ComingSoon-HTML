@@ -914,3 +914,14 @@ form .status i {
         height: 100%;
     }
 }
+
+@media screen and (min-width: 375px) {
+   /* .container{
+    margin-top: 120px;
+   } */
+   .welcome{
+    /* display: none; */
+    /* margin-top: 50px; */
+   }
+}
+
